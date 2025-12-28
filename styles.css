@@ -1,0 +1,104 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: rgb(246, 246, 167);
+}
+.flag{
+    margin-top: 10%;
+}
+.orange{
+    height: 200px;
+    width: 900px;
+    margin-left: 25%;
+    background-color: orangered;
+    position: relative;
+}
+.white{
+    height: 200px;
+    width: 900px;
+    margin-left: 25%;
+    background-color: white;
+}
+.chakra{
+    position: absolute;
+    height: 150px;
+    width: 150px;
+    border: 2px solid blue;
+    border-radius: 50%;
+    margin-left: 373px;
+    margin-top: 23px;
+}
+.green{
+    height: 200px;
+    width: 900px;
+    margin-left: 25%;
+    background-color: green;
+}
+.chakra li{
+    list-style: none;
+    border: 1px solid blue;
+    width: 148px;
+    position: relative;
+}
+ li:nth-child(1){
+    top: 74px;
+    border-color: blue;
+}
+li:nth-child(2){
+    top: 72px;
+    border-color: blue;
+    transform: rotate(15deg);
+    }
+li:nth-child(3){
+    top: 70.5px;
+    border-color: blue;
+    transform: rotate(30deg);
+}
+li:nth-child(4){
+    top: 69px;
+    border-color: blue;
+    transform: rotate(45deg);
+}
+li:nth-child(5){
+    top: 67px;
+    border-color: blue;
+    transform: rotate(60deg);
+}
+li:nth-child(6){
+    top: 66px;
+    border-color: blue;
+    transform: rotate(75deg);
+}
+li:nth-child(7){
+    top: 64px;
+    border-color: blue;
+    transform: rotate(90deg);
+}
+li:nth-child(8){
+    top: 62.5px;
+    border-color: blue;
+    transform: rotate(105deg);
+}
+li:nth-child(9){
+    top: 61px;
+    border-color: blue;
+    transform: rotate(120deg);
+}
+li:nth-child(10){
+    top: 59px;
+    border-color: blue;
+    transform: rotate(135deg);
+}
+li:nth-child(11){
+    top: 58px;
+    border-color: blue;
+    transform: rotate(150deg);
+}
+li:nth-child(12){
+    top: 56px;
+    border-color: blue;
+    transform: rotate(165deg);  
+} 
